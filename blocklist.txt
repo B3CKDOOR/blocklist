@@ -1,0 +1,7 @@
+# Title: B3CKDOOR - Debug-Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/B3CKDOOR/blocklist
+# Homepage: https://github.com/B3CKDOOR/blocklist
+# Description: Blocklist for debugging blocklists
+
+0.0.0.0 iptest.malwarebytes.com
