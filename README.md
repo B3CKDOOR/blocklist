@@ -1,2 +1,2 @@
-# blocklist
-Custom Blocklist
+# Blocklist
+Custom Blocklist for debug purposes
